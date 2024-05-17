@@ -4,7 +4,7 @@ Hazırlayan: Fatih Safa Özgür
 # MultiChat Uygulaması
 
 ## Giriş
-Proje kapsamında; 1 Server ve Client'lerden oluşan çok kullanıcılı bir mesajlaşma uygulaması, Java programlama dili ile gerçekleştirilmiştir. (Kodların özgün olduğunu göstermek için bazı kodlar Türkçe olarak yazılmıştır, normalde İngilizce olarak yazmaktayım)
+Proje kapsamında; 1 Server ve Client'lerden oluşan çok kullanıcılı bir mesajlaşma uygulaması, Java programlama dili ile gerçekleştirilmiştir.
 
 ## Hedef
 Proje ile birlikte; Socket Programming ve MultiThread yapılar kullanılarak çok kullanıcılı, eş zamanlı mesajlaşma uygulamasının gerçekleştirilmesi sağlanmıştır.
